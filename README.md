@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singhAman05 aka Aman Shankar Singh.
 - 👀 I’m interested in building some cool frontend as well as backend project
-- 🌱 I’m currently learning webdevelopement and C++ language
+- 🌱 I’m currently learning web developement and C++ language
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me you can email me at:- amanshankarsingh05@gmail.com
 

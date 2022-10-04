@@ -17,13 +17,13 @@ So, who I am
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday. 🎶
 
-[![Codechef](https://cp-logo.vercel.app/codechef/govindasharma)](https://www.codechef.com/users/govindasharma)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/Arpitgupta1014)](https://codeforces.com/profile/ArpitGupta1014)
+[![Codechef](https://cp-logo.vercel.app/codechef/tassrr_05)](https://www.codechef.com/users/tassrr_05)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/singhCode_05)](https://codeforces.com/profile/singhCode_05)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="620" />
 
 ### Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhAman05&theme=tokyonight&count_private=true)
-![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=singhAman05&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-<a href="https://github.com/singhAman05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitgupta1014&layout=compact&theme=buefy&hide_border=true" /></a>
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=singhAman05&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+<a href="https://github.com/singhAman05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhAman05&layout=compact&theme=buefy&hide_border=true" /></a>
 <!--
 ![Arpit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=singhAman05&layout=compact)
 -->

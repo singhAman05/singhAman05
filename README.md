@@ -33,7 +33,7 @@ So, who I am
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" width="100" height="100" /><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/30%20Days%20of%20Google%20Cloud%20%28Profile%29_j6UhPYG%20%281%29_2icCnpP.png" width="150" height="100" />
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='100' height='100'></a>
 <!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitgupta1014" alt="singhAman05" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhAman05" alt="singhAman05" /></a> </p>
 <p align = "center"> <img src ="https://github-profile-trophy.vercel.app/?username=singhAman05&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1" width = 800 >
 </p>
 -->
@@ -100,7 +100,7 @@ So, who I am
 <!--
 <a href="https://auth.geeksforgeeks.org/user/amanshankarsingh05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="aman" height="30" width="40" /></a>
 <a href="https://leetcode.com/amanshankarsingh2001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Aman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arpitgupta1014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="arpitgupta1014" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20157712/aman-shankar-singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Aman" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aman-shankar-80513222a/">
 <img align="left" alt="Arpit Gupta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

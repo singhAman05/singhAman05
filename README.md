@@ -1,8 +1,8 @@
 <!-- [![MasterHead](https://media.istockphoto.com/photos/dark-blue-minimal-texture-banner-with-space-for-text-word-or-product-picture-id1224392306?b=1&k=20&m=1224392306&s=170667a&w=0&h=lpDpUrttCoFDMhGQ1GJyyxIHE78s3xoMUzkawP5n4Y4=) -->
 <p align="left"><img src="https://steamuserimages-a.akamaihd.net/ugc/961982230388472124/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="900px"></p>
 
-<h1 align="center">Hi 👋, I'm Aman Sahankar Singh</h1>
-<h3 align="center">A passionate learner and backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aman Shankar Singh</h1>
+<h3 align="center">A passionate Learner of backend developement and a Coder and  from India</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300">
 
 

@@ -1,112 +1,39 @@
-<img src="https://github-hero-readme.vercel.app/api?username=singhAman05&linkedin=aman-shankar-80513222a/&description=Web%20Developer%20|%20Competitive%20%20Programmer" width="100%">
-<p align="left"><img src="https://steamuserimages-a.akamaihd.net/ugc/961982230388472124/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="900px"></p>
-<h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px" height="40px">  𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎v𝚜/> ! 
-<br>
-<!--
-<h1 align="center">Aman Shankar Singh this side  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px">
-<h1 align="center">Aman Shankar Singh this side  <img src="https://webcoder.co.in/wp-content/uploads/2021/04/software.gif" width="120px">
--->	
-</h1>
+[![MasterHead](https://media.istockphoto.com/photos/dark-blue-minimal-texture-banner-with-space-for-text-word-or-product-picture-id1224392306?b=1&k=20&m=1224392306&s=170667a&w=0&h=lpDpUrttCoFDMhGQ1GJyyxIHE78s3xoMUzkawP5n4Y4=)
+<h1 align="center">Hi 👋, I'm Aman Sahankar Singh</h1>
+<h3 align="center">A passionate learner and backend developer from India</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300">
 
-So, who I am
-- 🎓 Pursuing B.Tech in Electrical Engineering
-- 🌱 I’m currently learning `Data Structures`, `Development` and `Cloud Computing`
-- 👯 I’m looking to collaborate on Competitive Coding [My Resume](https://arpitgupta.vercel.app/Arpit-Resume.pdf)
-- 💬 Always ready to help!
-- 📫 How to reach me: amanshankarsingh05@gmail.com or [![LinkedIn: Aman Shankar](https://img.shields.io/badge/-AmanShankarSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-shankar-80513222a/)](https://www.linkedin.com/in/aman-shankar-80513222a/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I spend almost 8 hours listening songs everyday. 🎶
 
-[![Codechef](https://cp-logo.vercel.app/codechef/tassrr_05)](https://www.codechef.com/users/tassrr_05)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/singhCode_05)](https://codeforces.com/profile/singhCode_05)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="620" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhaman05&label=Profile%20views&color=0e75b6&style=flat" alt="singhaman05" /> </p>
 
-### Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhAman05&theme=tokyonight&count_private=true)
-![Aman's github stats](https://github-readme-stats.vercel.app/api?username=singhAman05&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-<a href="https://github.com/singhAman05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhAman05&layout=compact&theme=buefy&hide_border=true" /></a>
-<!--
-![Arpit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=singhAman05&layout=compact)
--->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=singhAman05&theme=github&count_private=true)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhaman05" alt="singhaman05" /></a> </p>
 
-### Earned Badges
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="hacktoberfest2020" width="100" height="100"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" width="100" height="100" /><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/30%20Days%20of%20Google%20Cloud%20%28Profile%29_j6UhPYG%20%281%29_2icCnpP.png" width="150" height="100" />
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='100' height='100'></a>
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhAman05" alt="singhAman05" /></a> </p>
-<p align = "center"> <img src ="https://github-profile-trophy.vercel.app/?username=singhAman05&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1" width = 800 >
-</p>
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=singhAman05&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+- 🌱 I’m currently learning **MongoDb, Ethical Hacking, Cloud Computing**
+
+- 👯 I’m looking to collaborate on **Backend and OOPs projects**
+
+- 💬 Ask me about **c++, DSA, frontend, backend**
+
+- 📫 How to reach me **amanshankarsingh05@gmail.com**
+
+- ⚡ Fun fact **I think I can be PILOT**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aman-shankar-80513222a/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jlZ4SVlucRrhv2xupaf_vCkV1FQ8gClPmt_IHOpz_-CbmxtMas7gWf5u0e_03MxRu4o&usqp=CAU" alt="arpit-" height="35" width="35" /></a>
-<a href="https://instagram.com/thakuraman051" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="thakuraman051" height="35" width="30" /></a>
-<a href="https://www.codechef.com/users/tassrr_05" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="singhAman05" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/amanshankarsingh" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="singhAman05" height="45" width="40" /></a>
-<a href="https://www.hackerearth.com/@SinghRaj05" target="blank"><img align="center" src="https://www.clipartmax.com/png/small/344-3444494_hackerearth-logo-png-clipart-hackathon-hackerearth-icon-logo-hackerearth.png" alt="singhAman05" height="40" width="40" /></a>
-<!--
-<a href="https://www.linkedin.com/in/aman-shankar-80513222a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Aman-" height="30" width="40" /></a>	
-<a href="https://instagram.com/thakuraman051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thakuraman051" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tassrr_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tassrr_05" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amanshankarsingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerrank.svg" alt="amanshankarsingh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@SinghRaj05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/hackerearth.svg" alt="@SinghRaj05" height="30" width="40" /></a>
--->	
-<!--	
-[![LinkedIn](./icons/linkedin.svg)](https://www.linkedin.com/in/aman-shankar-80513222a/) &nbsp;&nbsp;&nbsp;
-[![Instagram](./icons/instagram.svg)](https://www.instagram.com/thakuraman051) &nbsp;&nbsp;&nbsp;
-[![Codechef](./icons/codechef.svg)](https://www.codechef.com/users/tassrr_05) &nbsp;&nbsp;&nbsp;
-[![Email](./icons/email.svg)](mailto:amanshankarsingh05@gmail.com)
--->
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-shankar-80513222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-shankar-80513222a/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/aman.shankarsingh.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aman.shankarsingh.1" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/thakuraman051/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thakuraman051/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/tassrr_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tassrr_05" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/amanshankarsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/amanshankarsingh" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/singhcode_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/singhcode_05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/code_tasser05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/code_tasser05/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@singhraj05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@singhraj05" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/amanshankarsingh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/amanshankarsingh05" height="30" width="40" /></a>
 </p>
-<!-- 
-<p align="left">
-	<a href="mailto:amanshankarsingh05@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-	<a href="https://github.com/singhAman05"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/aman-shankar-80513222a/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://instagram.com/thakuraman051"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
- 	<a href="https://codechef.com/tassrr_05"><img alt="codechef" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/codechef.png"/></a>
- 	<a href="https://hackerearth.com/SinghRaj05"><img alt="hackerearth" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/hackerearth.png"/></a>
- 	<a href="https://www.hackerrank.com/amanshankarsingh"><img alt="hackerrank" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/hackerrank.png"/></a>
-</p>
--->
 
-<h3>Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="left"> 
- </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Reactjs" width="40" height="40"/> </a>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JEBlTE9UUk_6dL6oWeY4qYp7cexriJ5AcA&usqp=CAU" alt="nodejs" width="40" height="40"/> </a>
- 
-<br> ![](https://komarev.com/ghpvc/?username=arpitgupta1014&color=20B2AA&label=Views)
-<!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhaman05&show_icons=true&locale=en&layout=compact" alt="singhaman05" /></p>
 
-<center>
-<h2 align="center">Git Hub Stats</h2>
-  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arpitgupta1014&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitgupta1014&theme=dark&hide_border=true"/></p> 
- <!--  
-<!--
-<p align="center"><img src="https://metrics.lecoq.io/singhAman05" alt="Github Metrics"></p>
--->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
-
-[<img height="20" src="https://cdn.svgporn.com/logos/linkedin.svg" />](https://www.linkedin.com/in/aman-shankar-80513222a/)
-<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
-
-</center>
-<!--
-<a href="https://auth.geeksforgeeks.org/user/amanshankarsingh05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="aman" height="30" width="40" /></a>
-<a href="https://leetcode.com/amanshankarsingh2001/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Aman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20157712/aman-shankar-singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Aman" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aman-shankar-80513222a/">
-<img align="left" alt="Arpit Gupta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/thakuraman051/">
-<img align="left" alt="Aman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
--->
-
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhaman05&" alt="singhaman05" /></p>
